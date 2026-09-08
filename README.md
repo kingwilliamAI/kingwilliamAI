@@ -35,7 +35,7 @@ const kingwilliam = {
 
 ### 🜃 Now shipping
 
-<a href="https://github.com/kingwilliamAI/Augur"><img src="https://raw.githubusercontent.com/kingwilliamAI/kingwilliamAI/main/assets/augur.png" width="100%" alt="augur"/></a>
+<a href="https://github.com/kingwilliamAI/Augur"><img src="https://raw.githubusercontent.com/kingwilliamAI/kingwilliamAI/main/augur.png" width="100%" alt="augur"/></a>
 
 <p align="center">
   <a href="https://github.com/kingwilliamAI/Augur"><img src="https://img.shields.io/badge/REPO-kingwilliamAI%2FAugur-ccff00?style=for-the-badge&logo=github&logoColor=ccff00&labelColor=050604&color=ccff00" alt="repo"/></a>
