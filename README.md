@@ -67,4 +67,4 @@ const kingwilliam = {
 
 > Nothing here is a black box. If a number is on screen, the tool can show the block it came from.
 
-<p align="center"><img src="https://raw.githubusercontent.com/kingwilliamAI/kingwilliamAI/main/assets/footer.svg" width="100%" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kingwilliamAI/kingwilliamAI/main/footer.svg" width="100%" alt=""/></p>
