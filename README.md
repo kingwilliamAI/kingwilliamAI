@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/kingwilliamAI/kingwilliamAI/main/assets/header.svg" width="100%" alt="KingWilliam"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kingwilliamAI/kingwilliamAI/main/header.svg" width="100%" alt="KingWilliam"/></p>
 
 <p align="center">
   <a href="https://x.com/kingwilliam_"><img src="https://img.shields.io/badge/%40kingwilliam__-050604?style=for-the-badge&logo=x&logoColor=ccff00&labelColor=050604" alt="X"/></a>
