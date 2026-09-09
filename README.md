@@ -54,7 +54,7 @@ const kingwilliam = {
 <p align="center"><sub>counted from the database · Robinhood Chain · since 2026-08-30 · 2026-09-08</sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%24AUGUR%20CONTRACT-0x0000000000000000000000000000000000000000-050604?style=for-the-badge&logo=ethereum&logoColor=050604&labelColor=ccff00&color=050604" alt="$AUGUR contract"/>
+  <img src="https://img.shields.io/badge/%24AUGUR%20CONTRACT-0x04d2d16c26b2e82fbd93d1bbb91855fb8660f72c-050604?style=for-the-badge&logo=ethereum&logoColor=050604&labelColor=ccff00&color=050604" alt="$AUGUR contract"/>
 </p>
 <p align="center"><sub>match the address, not the name · <a href="https://getaugur.xyz/#/token">getaugur.xyz/#/token</a></sub></p>
 
